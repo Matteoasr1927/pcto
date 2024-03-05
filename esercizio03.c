@@ -1,8 +1,4 @@
-#include <stdio.h>
+#include <stdi
 int main ()
-{
-int a=8;
-int b=14;
-int c=a*b;
-printf("%d",c);
-}
+{ int eto=18
+cher sesso
